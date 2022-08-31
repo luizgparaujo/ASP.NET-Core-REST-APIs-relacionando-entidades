@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "huShAFo7AREUWwUC8zsi1MgY6MXZKW9MN7TSAruzaQWCRA/kVkZPcXNeajW/Up3z7fVqqt9jJ14fq21o+H+0nA==",
+  "dgSpecHash": "Ml+wWVpWemEF+ewHMXr9lCclkeq3YIFXgtsP1Qiw8mc9ww6SUnfPXbsq4ZEkvvppZ1rOKOxu3C00l4ViWJ72Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LG_Pa\\OneDrive\\Área de Trabalho\\alura-csharp2-Aula-1-Inicio\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "C:\\Users\\LG_Pa\\source\\repos\\relacionando entidades\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LG_Pa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\LG_Pa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

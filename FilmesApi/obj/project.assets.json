@@ -8017,11 +8017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LG_Pa\\OneDrive\\Área de Trabalho\\alura-csharp2-Aula-1-Inicio\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "C:\\Users\\LG_Pa\\source\\repos\\relacionando entidades\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "C:\\Users\\LG_Pa\\OneDrive\\Área de Trabalho\\alura-csharp2-Aula-1-Inicio\\FilmesApi\\FilmesApi.csproj",
+      "projectPath": "C:\\Users\\LG_Pa\\source\\repos\\relacionando entidades\\FilmesApi\\FilmesApi.csproj",
       "packagesPath": "C:\\Users\\LG_Pa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LG_Pa\\OneDrive\\Área de Trabalho\\alura-csharp2-Aula-1-Inicio\\FilmesApi\\obj\\",
+      "outputPath": "C:\\Users\\LG_Pa\\source\\repos\\relacionando entidades\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LG_Pa\\AppData\\Roaming\\NuGet\\NuGet.Config",
